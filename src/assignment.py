@@ -26,5 +26,4 @@ print("#####")
 print("#####")
 print("#####")
 print("#####")
-
 print("Task 2 complete!")
